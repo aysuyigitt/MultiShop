@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "8ri2DoAc42qlttb6sy6p7SLOv2J4qTsxhGUYItanD4uTiF27IHQyiCzRihrpyZ9+hO0+AQ8x3VixdudSa9GRpw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\AYSU YİĞİT\\Source\\Repos\\MultiShop\\Services\\Payment\\MultiShop.Payment\\MultiShop.Payment.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\AYSU YİĞİT\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
+    "C:\\Users\\AYSU YİĞİT\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\AYSU YİĞİT\\.nuget\\packages\\swashbuckle.aspnetcore\\6.4.0\\swashbuckle.aspnetcore.6.4.0.nupkg.sha512",
+    "C:\\Users\\AYSU YİĞİT\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.4.0\\swashbuckle.aspnetcore.swagger.6.4.0.nupkg.sha512",
+    "C:\\Users\\AYSU YİĞİT\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.4.0\\swashbuckle.aspnetcore.swaggergen.6.4.0.nupkg.sha512",
+    "C:\\Users\\AYSU YİĞİT\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.4.0\\swashbuckle.aspnetcore.swaggerui.6.4.0.nupkg.sha512"
+  ],
+  "logs": []
+}

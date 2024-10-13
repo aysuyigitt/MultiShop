@@ -1,0 +1,26 @@
+{
+  "version": 2,
+  "dgSpecHash": "H3udYKQ3n2uLUdj3qG8SrZAjO56fncc2u/Sq1hGSsxK9wgE/9Bz1CKZUuR1lzfd3GGPOP8PL2b3KO6OglhsxBw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\AYSU YİĞİT\\Source\\Repos\\MultiShop\\Services\\Order\\Core\\MultiShop.Order.Application\\MultiShop.Order.Application.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\AYSU YİĞİT\\.nuget\\packages\\mediatr\\12.2.0\\mediatr.12.2.0.nupkg.sha512",
+    "C:\\Users\\AYSU YİĞİT\\.nuget\\packages\\mediatr.contracts\\2.0.1\\mediatr.contracts.2.0.1.nupkg.sha512",
+    "C:\\Users\\AYSU YİĞİT\\.nuget\\packages\\mediatr.extensions.microsoft.dependencyinjection\\11.1.0\\mediatr.extensions.microsoft.dependencyinjection.11.1.0.nupkg.sha512",
+    "C:\\Users\\AYSU YİĞİT\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\8.0.0\\microsoft.extensions.configuration.abstractions.8.0.0.nupkg.sha512",
+    "C:\\Users\\AYSU YİĞİT\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.0\\microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512",
+    "C:\\Users\\AYSU YİĞİT\\.nuget\\packages\\microsoft.extensions.primitives\\8.0.0\\microsoft.extensions.primitives.8.0.0.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1608",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Detected package version outside of dependency constraint: MediatR.Extensions.Microsoft.DependencyInjection 11.1.0 requires MediatR (>= 11.0.0 && < 12.0.0) but version MediatR 12.2.0 was resolved.",
+      "libraryId": "MediatR",
+      "targetGraphs": [
+        "net8.0"
+      ]
+    }
+  ]
+}
