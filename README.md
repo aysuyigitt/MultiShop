@@ -111,7 +111,7 @@ MultiShop E-Ticaret projesi, mikroservis mimarisi kullanılarak geliştirilen ç
 
 
 
-**Öne Çıkan Özellikler**
+## Öne Çıkan Özellikler
 
 📜 Tasarım Desenleri: CQRS, Mediator, Repository Design Pattern.
 
@@ -122,5 +122,7 @@ MultiShop E-Ticaret projesi, mikroservis mimarisi kullanılarak geliştirilen ç
 🐳 Docker Entegrasyonu: Docker üzerinde çalışan Comment, Basket, Cargo, Order ve Identity mikroservisleri.
 
 🔐 Ziyaretçi veya Kullanıcı Girişi: IdentityServer4 ile kimlik doğrulama.
+
+
 
 
