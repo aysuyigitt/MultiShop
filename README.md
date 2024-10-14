@@ -22,7 +22,7 @@ MultiShop E-Ticaret projesi, mikroservis mimarisi kullanılarak geliştirilen ç
 
 
 
-**MikroServisler**
+## MikroServisler
 
 
 🛒Basket: Redis yapısı sayesinde kullanıcıların alışveriş sepetlerini etkin bir şekilde yönetmelerine olanak tanır.
@@ -44,9 +44,9 @@ MultiShop E-Ticaret projesi, mikroservis mimarisi kullanılarak geliştirilen ç
 
 
 
-**Kullanılan Teknolojiler**
+## Kullanılan Teknolojiler
 
-Backend Teknolojileri
+**Backend Teknolojileri**
 
 🤖 Asp.Net Core 8.0
 
@@ -62,7 +62,7 @@ Backend Teknolojileri
 
 🪙 Json Web Token
 
-Veritabanı Teknolojileri
+**Veritabanı Teknolojileri**
 
 🗃️ MSSQL
 
@@ -72,7 +72,7 @@ Veritabanı Teknolojileri
 
 🗃️ PostgreSQL
 
-Altyapı ve Araçlar
+**Altyapı ve Araçlar**
 
 🐳 Docker
 
@@ -86,7 +86,7 @@ Altyapı ve Araçlar
 
 ☁️ Google Cloud Storage
 
-Mimari ve Tasarım Desenleri
+**Mimari ve Tasarım Desenleri**
 
 🏛️ Onion Architecture
 
@@ -96,7 +96,7 @@ Mimari ve Tasarım Desenleri
 
 🗃️ Repository Design Pattern
 
-Frontend Teknolojileri
+**Frontend Teknolojileri**
 
 🌐 Html
 
