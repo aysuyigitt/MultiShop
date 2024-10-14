@@ -162,3 +162,16 @@ MultiShop E-Ticaret projesi, mikroservis mimarisi kullanılarak geliştirilen ç
 
 
 
+![Yorum](https://github.com/user-attachments/assets/53bdf7a0-58fa-40c7-9748-8473994d5606)
+
+
+
+
+
+
+![docker](https://github.com/user-attachments/assets/a4c5bd35-fc38-42e2-9768-5f023420c02a)
+
+
+
+
+
