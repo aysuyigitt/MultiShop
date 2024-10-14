@@ -129,7 +129,12 @@ MultiShop E-Ticaret projesi, mikroservis mimarisi kullanılarak geliştirilen ç
 
 
 
+
+
+
 ![ÖneÇıkanKategori](https://github.com/user-attachments/assets/598c61ee-e1e1-40ce-94d7-222143197c40)
+
+
 
 
 
@@ -137,7 +142,15 @@ MultiShop E-Ticaret projesi, mikroservis mimarisi kullanılarak geliştirilen ç
 
 
 
+
+
 ![Kategori](https://github.com/user-attachments/assets/a3392cfa-bc05-4f56-be53-a7da0336b777)
+
+
+
+
+
+![MyOrder](https://github.com/user-attachments/assets/0a57304e-a729-4c70-99a1-6c308a78c831)
 
 
 
