@@ -18,7 +18,7 @@ MultiShop E-Ticaret projesi, mikroservis mimarisi kullanılarak geliştirilen ç
 🚀 Localization kullanılararak, kullanıcılara diledikleri dilde içerik sunma imkanı sağlanmış ve uygulamanın çok dilli yapısı kullanıcı tercihine göre sunulmuştur.
 
 
-🚀 Uygulamanın yalnızca yerel ortamda çalışmakla sınırlı kalmaması ve farklı platformlarda sorunsuzca çalışabilmesi için Docker kullanıp arayüz olarak da Portainer'den yönetim sağlanmıştır 
+🚀 Uygulamanın yalnızca yerel ortamda çalışmakla sınırlı kalmaması ve farklı platformlarda sorunsuzca çalışabilmesi için Docker kullanıp arayüz olarak da Portainer'den yönetim sağlanmıştır.
 
 
 
