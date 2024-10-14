@@ -62,6 +62,7 @@ MultiShop E-Ticaret projesi, mikroservis mimarisi kullanılarak geliştirilen ç
 
 🪙 Json Web Token
 
+
 **Veritabanı Teknolojileri**
 
 🗃️ MSSQL
@@ -84,7 +85,8 @@ MultiShop E-Ticaret projesi, mikroservis mimarisi kullanılarak geliştirilen ç
 
 🚀 RapidApi
 
-☁️ Google Cloud Storage
+
+
 
 **Mimari ve Tasarım Desenleri**
 
@@ -96,6 +98,7 @@ MultiShop E-Ticaret projesi, mikroservis mimarisi kullanılarak geliştirilen ç
 
 🗃️ Repository Design Pattern
 
+
 **Frontend Teknolojileri**
 
 🌐 Html
@@ -105,6 +108,7 @@ MultiShop E-Ticaret projesi, mikroservis mimarisi kullanılarak geliştirilen ç
 💻 JavaScript
 
 🧩 Bootstrap
+
 
 
 **Öne Çıkan Özellikler**
