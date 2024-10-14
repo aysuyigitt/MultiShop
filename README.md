@@ -43,46 +43,75 @@ MikroServisler
 Kullanılan Teknolojiler
 
 Backend Teknolojileri
+
 🤖 Asp.Net Core 6.0 Web App
+
 🌐 Asp.Net Web API
+
 💾 Dapper
+
 🔒 IdentityServer4
+
 📦 RabbitMQ
+
 🌀 Ocelot Gateway
+
 🪙 Json Web Token
 
 Veritabanı Teknolojileri
+
 🗃️ MSSQL
+
 🗃️ MongoDb
+
 🗃️ Redis
+
 🗃️ PostgreSQL
 
 Altyapı ve Araçlar
+
 🐳 Docker
+
 🖥️ DBeaver
+
 🛠️ Postman
+
 📝 Swagger
+
 🚀 RapidApi
+
 ☁️ Google Cloud Storage
 
 Mimari ve Tasarım Desenleri
+
 🏛️ Onion Architecture
+
 📜 CQRS Design Pattern
+
 🎛️ Mediator Design Pattern
+
 🗃️ Repository Design Pattern
 
 Frontend Teknolojileri
+
 🌐 Html
+
 🎨 Css
+
 💻 JavaScript
+
 🧩 Bootstrap
 
 Öne Çıkan Özellikler
 
 📜 Tasarım Desenleri: CQRS, Mediator, Repository Design Pattern.
+
 💾 Hafif ORM: Dapper.
+
 🛒 Sepet Yönetimi: Redis ile kullanıcı sepet işlemleri.
-🐳 Docker Entegrasyonu: Docker üzerinde çalışan Comment, Basket, Cargo, Order ve Identity mikroservisleri 
+
+🐳 Docker Entegrasyonu: Docker üzerinde çalışan Comment, Basket, Cargo, Order ve Identity mikroservisleri.
+
 🔐 Ziyaretçi veya Kullanıcı Girişi: IdentityServer4 ile kimlik doğrulama.
 
 
