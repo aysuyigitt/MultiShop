@@ -123,7 +123,11 @@ MultiShop E-Ticaret projesi, mikroservis mimarisi kullanılarak geliştirilen ç
 
 🔐 Ziyaretçi veya Kullanıcı Girişi: IdentityServer4 ile kimlik doğrulama.
 
+## Resimler
+
 ![TrendKıyafetler](https://github.com/user-attachments/assets/086103d1-8ba3-42ad-b18b-87e537c1a993)
+![TrendKıyafe
+![ÖneÇıkanKategori](https://github.com/user-attachments/assets/598c61ee-e1e1-40ce-94d7-222143197c40)
 
 
 
