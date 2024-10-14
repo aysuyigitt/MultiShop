@@ -128,10 +128,16 @@ MultiShop E-Ticaret projesi, mikroservis mimarisi kullanılarak geliştirilen ç
 ![TrendKıyafetler](https://github.com/user-attachments/assets/086103d1-8ba3-42ad-b18b-87e537c1a993)
 
 
+
 ![ÖneÇıkanKategori](https://github.com/user-attachments/assets/598c61ee-e1e1-40ce-94d7-222143197c40)
 
 
+
 ![öneÇıkanÜrün](https://github.com/user-attachments/assets/d9113ddf-fab5-40f9-81f2-59b8adcc9f80)
+
+
+
+![Kategori](https://github.com/user-attachments/assets/a3392cfa-bc05-4f56-be53-a7da0336b777)
 
 
 
