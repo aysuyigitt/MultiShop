@@ -4,7 +4,7 @@
 MultiShop E-Ticaret projesi, mikroservis mimarisi kullanılarak geliştirilen çok katmanlı bir e-ticaret platformudur. Proje, ASP.Net Core 8.0 ve çeşitli teknolojilerle donatılmış olup, farklı mikroservisler üzerinden birçok özelliği sunar. MultiShop’un en dikkat çeken yönü, her bir mikroservisin belirli bir işlevi yerine getirmek için tasarlanmış olmasıdır. Böylelikle, sistem modüler bir yapıda geliştirilmiş ve yönetimi kolaylaştırılmıştır.
 
 
-**Projenin Kapsamı**
+##  Projenin Kapsamı
 
 🚀 ASP.Net Core 8.0 ile geliştirdiğim projede, Catalog, Basket, Order, Payment, Comment, Cargo, Discount ve Identity Server gibi farklı mikroservisler bulunmaktadır.
 
